@@ -1,0 +1,38 @@
+Script started on Thu 04 Oct 2018 10:03:45 PM PDT
+kaibarra@lh-cslab-012:~/COMP280/assignments/ibarra_hwk4\[aibarra@lh-cslab-012 ibarra_hwk4]$ exit./boc
+record size is 26 bytes
+
+Record: 0
+i1: -267519282 0xf00dface
+i2: 1 0x1
+d1: 3.141590
+s1: 1 0x1
+s2: 1 0x1
+s3: -21555 0xabcd
+i3: 305419896 0x12345678
+
+
+Record: 1
+i1: -267519282 0xf00dface
+i2: 2 0x2
+d1: 6.283180
+s1: 4 0x4
+s2: 8 0x8
+s3: -21555 0xabcd
+i3: 305419896 0x12345678
+
+
+Record: 2
+i1: -267519282 0xf00dface
+i2: 3 0x3
+d1: 9.424770
+s1: 9 0x9
+s2: 27 0x1b
+s3: -21555 0xabcd
+i3: 305419896 0x12345678
+
+
+kaibarra@lh-cslab-012:~/COMP280/assignments/ibarra_hwk4\[aibarra@lh-cslab-012 ibarra_hwk4]$ exit
+exit
+
+Script done on Thu 04 Oct 2018 10:03:57 PM PDT
